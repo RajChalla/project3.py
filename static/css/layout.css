@@ -1,0 +1,10 @@
+.navbar{
+    background: aliceblue;
+    height: 60px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-around}
+.navbar a {
+    text-decoration: none;
+    line-height: 60px;
+}
